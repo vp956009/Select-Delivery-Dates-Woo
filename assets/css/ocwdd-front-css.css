@@ -1,0 +1,23 @@
+.ocwdd_main {
+    background: #ccc;
+    color: #000;
+    padding: 5px 5px;
+    text-align: center;
+    font-size: 15px;
+    border-radius: 6px;
+    margin: 5px 0px;
+}
+.ocwdd_defult{
+  display: inline-block;
+  width: 100%;
+}
+
+.ocwdd_cart {
+    display: inherit;
+    width: auto;
+}
+
+.ocwdd_main p {
+    margin: 0;
+    font-size: 14.4px;
+}
