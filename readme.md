@@ -1,17 +1,10 @@
-===Select Delivery Dates Woo===
-Tested up to: 5.5
-Tags: woocommerce delivery date, order delivery date, order pickup date and time, delivery date, delivery
-Donate link: https://bit.ly/2CqhQq7
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-3.0.html
+<h1>Select Delivery Dates Woo</h1>
 
-== Description ==
-
-When we checkout Process at that time when customer need to identify when delivery excpect customer for that use we need to know **Delivery Date in woocommerce**.
-so **Select Delivery Dates Woocommerce** plugin provide powerful feature to setup woocommerce checkout page in Delivery Date selection option.
+When we checkout Process at that time when customer need to identify when delivery excpect customer for that use we need to know **[Delivery Date in woocommerce](https://wordpress.org/plugins/select-delivery-dates-woo/)**.
+so **[Select Delivery Dates Woocommerce](https://wordpress.org/plugins/select-delivery-dates-woo/)** plugin provide powerful feature to setup woocommerce checkout page in Delivery Date selection option.
 
 <h4>How it works Select Delivery Dates Woocommerce</h4>
-<iframe width="640" height="345" src="https://www.youtube.com/embed/3cRau6evGaI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 > **Plugin Features**
